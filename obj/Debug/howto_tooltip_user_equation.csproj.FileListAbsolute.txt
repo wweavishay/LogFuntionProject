@@ -1,0 +1,33 @@
+C:\Users\Yaniv\Desktop\graph log function\log function\bin\Debug\howto_tooltip_user_equation.exe
+C:\Users\Yaniv\Desktop\graph log function\log function\bin\Debug\howto_tooltip_user_equation.pdb
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.csprojAssemblyReference.cache
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.Form1.resources
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.csproj.GenerateResource.cache
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.csproj.CoreCompileInputs.cache
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.exe
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.pdb
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.Form2.resources
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.Form3.resources
+C:\Users\Yaniv\Desktop\graph log function\log function\bin\Debug\howto_tooltip_user_equation.exe.manifest
+C:\Users\Yaniv\Desktop\graph log function\log function\bin\Debug\howto_tooltip_user_equation.application
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.exe.manifest
+C:\Users\Yaniv\Desktop\graph log function\log function\obj\Debug\howto_tooltip_user_equation.application
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.csprojAssemblyReference.cache
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.Form1.resources
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.Form2.resources
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.Form3.resources
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.Properties.Resources.resources
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.csproj.GenerateResource.cache
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.csproj.CoreCompileInputs.cache
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.exe
+C:\Users\מיכאל\Desktop\log function\obj\Debug\howto_tooltip_user_equation.pdb
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.csprojAssemblyReference.cache
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.Form1.resources
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.Form2.resources
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.Form3.resources
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.Properties.Resources.resources
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.csproj.GenerateResource.cache
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.csproj.CoreCompileInputs.cache
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.exe
+C:\Users\מיכאל\Desktop\upload github\LogFuntionProject\obj\Debug\howto_tooltip_user_equation.pdb
